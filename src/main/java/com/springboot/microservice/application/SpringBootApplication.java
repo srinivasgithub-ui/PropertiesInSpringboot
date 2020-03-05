@@ -20,6 +20,9 @@ public class SpringBootApplication implements CommandLineRunner {
         log.info("Hi");
         log.info("Sreeee");
         log.info("How are you");
+        log.info("Hi");
+        log.info("Sreeee");
+        log.info("How are you");
 
     }
 }
